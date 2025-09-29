@@ -1,0 +1,10 @@
+Pkg install colorama
+Pkg install lolcat
+Pkg install cowsay
+Pkg install figlet
+Pkg install pv
+bash setup.sh
+
+git clone https://github.com/jatinkalwar/Master-Bomber
+￼
+
